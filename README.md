@@ -9,10 +9,10 @@ A **AI-powered Deepseek AI clone** for chat-based research, code generation, and
 ## 🖼️ Demo Screenshots
 
 > Add your screenshots here for a professional touch:
-
-![Chat Dashboard](Demo/chat-dashboard.png)
+> 
+![Login](Demo/login.png)
+![SignUp](Demo/signup.png)
 ![Code Generation](Demo/code-generation.png)
-![Login](Demo/workflow.png)
 
 ---
 
